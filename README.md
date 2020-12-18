@@ -1,2 +1,0 @@
-# dutchdomotics.info
-dutchdomotics site
